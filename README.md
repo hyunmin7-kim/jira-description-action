@@ -1,4 +1,4 @@
-# jira-description-action
+# jira-description-action 
 
 > A lightweight solution to integrate GitHub with JIRA for project management. 🔎
 
