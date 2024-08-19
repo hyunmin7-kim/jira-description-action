@@ -34,6 +34,7 @@ export class JiraConnector {
       return {
         key,
         summary,
+        description,
         url: `${this.JIRA_BASE_URL}/browse/${key}`,
         type: {
           name: type.name,
